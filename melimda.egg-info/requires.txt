@@ -1,0 +1,8 @@
+deepchem==2.7.1
+pandas
+numpy
+rdkit-pypi
+tensorflow
+jax
+torch
+torch-geometric

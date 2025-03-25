@@ -1,0 +1,4 @@
+[console_scripts]
+melimda-predict = melimda.predict:main
+melimda-preprocess = melimda.preprocess:main
+melimda-train = melimda.train:main

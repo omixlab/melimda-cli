@@ -1,0 +1,11 @@
+ligand,receptor,id,Resultado Experimental,Resultado Vina
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/3wjw/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/3wjw/receptor.pdbqt,3wjw,-5.28,-9.616
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/1t31/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/1t31/receptor.pdbqt,1t31,-11.78,-10.33
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/5j8m/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/5j8m/receptor.pdbqt,5j8m,-9.27,-8.196
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/4rd6/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/4rd6/receptor.pdbqt,4rd6,-8.57,-8.741
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/5sz7/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/5sz7/receptor.pdbqt,5sz7,-13.23,-6.443
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/6gxb/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/6gxb/receptor.pdbqt,6gxb,-10.17,-7.25
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/6h5x/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/6h5x/receptor.pdbqt,6h5x,-14.77,-9.525
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/3arp/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/3arp/receptor.pdbqt,3arp,-9.76,-8.456
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/2zym/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/2zym/receptor.pdbqt,2zym,-8.37,-8.474
+/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/3d7z/ligand.pdbqt,/home/lucasmocellin/tcc/data/docking/inputs/pdbbind-refined-set/3d7z/receptor.pdbqt,3d7z,-10.81,-11.39

@@ -13,5 +13,6 @@ Requires-Dist: tensorflow
 Requires-Dist: jax
 Requires-Dist: torch
 Requires-Dist: torch-geometric
+Requires-Dist: catboost
 
 melimda: machine-learning improved docking algorithm

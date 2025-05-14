@@ -15,10 +15,7 @@ def extract_binding_features(input_dir):
     """
     # Configuração do Grid Featurizer
     grid_featurizer = dc.feat.RdkitGridFeaturizer(
-        voxel_width=16.0,  # Tamanho do voxel em Angstroms
-        ecfp_power=5,      # Complexidade do descritor ECFP
-        splif_power=5,     # Complexidade do descritor SPLIF
-        flatten=True       # Achata o array de features
+        voxel_width=16.0, ecfp_power=5, splif_power=5, flatten=True       # Achata o array de features
     )
     
     # Listas para armazenar dados

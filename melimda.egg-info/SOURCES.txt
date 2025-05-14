@@ -2,6 +2,7 @@ setup.py
 melimda/__init__.py
 melimda/predict.py
 melimda/preprocess.py
+melimda/teste.py
 melimda/train.py
 melimda.egg-info/PKG-INFO
 melimda.egg-info/SOURCES.txt

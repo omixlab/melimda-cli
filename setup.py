@@ -9,10 +9,20 @@ setup(
     author='Lucas Mocellin Goulart; Frederico Schmitt Kremer',
     author_email='lmocellingoulart@gmail.com',
     packages=find_packages(),
-    install_requires=['deepchem==2.7.1', 'pandas', 'numpy', 'rdkit-pypi', 'tensorflow', 'jax', 'torch', 'torch-geometric'],
+    install_requires=[
+        'deepchem==2.7.1',
+        'pandas',
+        'numpy',
+        'rdkit-pypi',
+        'tensorflow',
+        'jax',
+        'torch',
+        'torch-geometric',
+        'catboost'  
+    ],
     include_package_data=True,
     entry_points={
-        'console_scripts': [
+            'console_scripts': [
             'melimda-preprocess = melimda.preprocess:main',
             'melimda-train = melimda.train:main',
             'melimda-predict = melimda.predict:main',

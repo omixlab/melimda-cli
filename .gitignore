@@ -1,6 +1,6 @@
 Data/
 catboost_info/
-*.egg-info
+*.egg-info/
 *.egg
 *.zip
 *.tar.gz
@@ -15,4 +15,5 @@ catboost_info/
 *.csv
 __pycache__
 *.pkl
+old/
 !melimda.pkl

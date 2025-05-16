@@ -22,7 +22,7 @@ $ pip install https+git@github.com:omixlab/melimda-cli.git
 ## Running
 
 ```
-$ melimbda-predict \
+$ melimda-predict \
     --ligand result.pdbqt  \
     --receptor receptor.pdbqt \
     --model model.pkl \

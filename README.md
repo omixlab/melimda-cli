@@ -10,6 +10,8 @@ accurate energy of interaction. It requires the `.pdbqt` files of the Vina outpu
 
 - python (3.8)
 - pdbfixer
+- Autodock Vina
+- OpenBabel
 
 ## Setup
 

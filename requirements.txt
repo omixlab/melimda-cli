@@ -1,4 +1,5 @@
 deepchem
+deepchem[jax]
 pandas
 numpy
 rdkit-pypi

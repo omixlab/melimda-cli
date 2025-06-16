@@ -11,6 +11,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'deepchem==2.7.1',
+        'deepchem[jax]',
         'pandas',
         'numpy',
         'rdkit-pypi',

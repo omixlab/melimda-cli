@@ -19,7 +19,8 @@ setup(
         'jax',
         'torch',
         'torch-geometric',
-        'catboost'  
+        'catboost',
+        'matplotlib-inline'
     ],
     include_package_data=True,
     entry_points={

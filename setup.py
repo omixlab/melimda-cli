@@ -10,7 +10,7 @@ setup(
     author_email='lmocellingoulart@gmail.com',
     packages=find_packages(),
     install_requires=[
-        'deepchem==2.7.1',
+        'deepchem',
         'deepchem[jax]',
         'pandas',
         'numpy',
